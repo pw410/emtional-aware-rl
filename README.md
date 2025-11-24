@@ -1,6 +1,8 @@
 Emotion-Aware Reinforcement Learning (EA-RL)
 A hybrid conscious–subconscious control model integrating emotional reward, awareness gating, and Ramanujan nonlinear transforms.
 
+
+
 --->Overview
 This repository contains the official implementation of Emotion-Aware Reinforcement Learning (EA-RL) —
 a reinforcement-learning architecture designed to produce human-aligned, emotionally informed, safe, and stable decision-making.
@@ -85,7 +87,3 @@ gym
 Works on any standard Python environment.
 
 -----------------------------------
- 
-✔ Exactly GitHub standard formatting
-
-Paste this in README.md and click Commit changes.
